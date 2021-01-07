@@ -1,0 +1,278 @@
+﻿ <!--/*
+* FILE : MainPage.xaml
+* PROJECT : PROG2001 - Assignment #7
+* PROGRAMMER : Janeth Santos and Hongsik Eom
+* FIRST VERSION : December 10, 2020
+* DESCRIPTION :
+* this file contains the layout of the main application page.
+*/-->
+    <Page
+    x:Class="A7_TilePuzzleGame.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:A7_TilePuzzleGame"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    MinHeight="600"
+    MinWidth="600"
+     Width="Auto" Height="Auto" 
+     Background="{ThemeResource SystemControlHighlightAltListAccentMediumBrush}">
+
+
+    <!-- Main Grid  -->
+    <Grid x:Name="AppGrid" Background="Black" >
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.05*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="2.5*"/>
+            <RowDefinition Height="1*"/>
+
+            <RowDefinition Height=".05*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.05*"/>
+            <ColumnDefinition Width="0.5*"/>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="1.75*"/>
+            <ColumnDefinition Width=".05*"/>
+
+        </Grid.ColumnDefinitions>
+        <Border Grid.Column="2" Grid.Row="2" BorderBrush="#FFF5FF06" BorderThickness="1"/>
+
+        <!-- Game Grid  -->
+        <Grid x:Name="puzzleGrid"  
+              Grid.Row="2" Grid.Column="2">
+
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- Border Definition  -->
+            <Border  x:Name="p1"  Grid.Column="0" Grid.Row="0" BorderBrush="cyan" BorderThickness="1"/>
+            <Border  x:Name="p2"  Grid.Column="1" Grid.Row="0" BorderBrush="cyan" BorderThickness="1"/>
+            <Border  x:Name="p3"  Grid.Column="2" Grid.Row="0" BorderBrush="cyan" BorderThickness="1"/>
+            <Border  x:Name="p4"  Grid.Column="3" Grid.Row="0" BorderBrush="cyan" BorderThickness="1"/>
+            <Border  x:Name="p5"  Grid.Column="0" Grid.Row="1" BorderBrush="cyan" BorderThickness="1"/>
+            <Border  x:Name="p6"  Grid.Column="1" Grid.Row="1" BorderBrush="cyan" BorderThickness="1"/>
+            <Border  x:Name="p7"  Grid.Column="2" Grid.Row="1" BorderBrush="cyan" BorderThickness="1"/>
+            <Border  x:Name="p8"  Grid.Column="3" Grid.Row="1" BorderBrush="cyan" BorderThickness="1"/>
+            <Border  x:Name="p9"  Grid.Column="0" Grid.Row="2" BorderBrush="cyan" BorderThickness="1"/>
+            <Border  x:Name="p10" Grid.Column="1" Grid.Row="2" BorderBrush="cyan" BorderThickness="1"/>
+            <Border  x:Name="p11" Grid.Column="2" Grid.Row="2" BorderBrush="cyan" BorderThickness="1"/>
+            <Border  x:Name="p12" Grid.Column="3" Grid.Row="2" BorderBrush="cyan" BorderThickness="1"/>
+            <Border  x:Name="p13" Grid.Column="0" Grid.Row="3" BorderBrush="cyan" BorderThickness="1"/>
+            <Border  x:Name="p14" Grid.Column="1" Grid.Row="3" BorderBrush="cyan" BorderThickness="1"/>
+            <Border  x:Name="p15" Grid.Column="2" Grid.Row="3" BorderBrush="cyan" BorderThickness="1"/>
+            <Border  x:Name="p16" Grid.Column="3" Grid.Row="3" BorderBrush="#FFF5FF06" BorderThickness="1"/>
+            <!-- Tiles  -->
+            <Rectangle Name="r0" Width="Auto" Height="Auto" Stroke="Transparent" StrokeThickness="3"
+              Grid.Column="0" Grid.Row="0" Tag="t1" Tapped="SwitchTile">
+                <Rectangle.Fill>
+                    <ImageBrush x:Name="img1" ImageSource= "{Binding T1}"/>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Rectangle Name="r1" Width="Auto" Height="Auto" Stroke="Transparent" StrokeThickness="3"
+              Grid.Column="1" Grid.Row="0" Tag="t2" Tapped="SwitchTile">
+                <Rectangle.Fill>
+                    <ImageBrush ImageSource="{Binding T2}"/>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Rectangle Name="r2" Width="Auto" Height="Auto" Stroke="Transparent" StrokeThickness="3"
+              Grid.Column="2" Grid.Row="0" Tag="t3" Tapped="SwitchTile">
+                <Rectangle.Fill>
+                    <ImageBrush ImageSource="{Binding T3}"/>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Rectangle Name="r3" Width="Auto" Height="Auto" Stroke="Transparent" StrokeThickness="3"
+              Grid.Column="3" Grid.Row="0" Tag="t4" Tapped="SwitchTile">
+                <Rectangle.Fill>
+                    <ImageBrush ImageSource="{Binding T4}"/>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Rectangle Name="r4" Width="Auto" Height="Auto" Stroke="Transparent" StrokeThickness="3"
+              Grid.Column="0" Grid.Row="1" Tag="t5" Tapped="SwitchTile">
+                <Rectangle.Fill>
+                    <ImageBrush ImageSource="{Binding T5}"/>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Rectangle Name="r5" Width="Auto" Height="Auto" Stroke="Transparent" StrokeThickness="3"
+              Grid.Column="1" Grid.Row="1" Tag="t6" Tapped="SwitchTile">
+                <Rectangle.Fill>
+                    <ImageBrush ImageSource="{Binding T6}"/>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Rectangle Name="r6" Width="Auto" Height="Auto" Stroke="Transparent" StrokeThickness="3"
+              Grid.Column="2" Grid.Row="1" Tag="t7" Tapped="SwitchTile">
+                <Rectangle.Fill>
+                    <ImageBrush ImageSource="{Binding T7}"/>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Rectangle Name="r7" Width="Auto" Height="Auto" Stroke="Transparent" StrokeThickness="3"
+              Grid.Column="3" Grid.Row="1" Tag="t8" Tapped="SwitchTile">
+                <Rectangle.Fill>
+                    <ImageBrush ImageSource="{Binding T8}"/>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Rectangle Name="r8" Width="Auto" Height="Auto" Stroke="Transparent" StrokeThickness="3"
+              Grid.Column="0" Grid.Row="2" Tag="t9" Tapped="SwitchTile">
+                <Rectangle.Fill>
+                    <ImageBrush ImageSource="{Binding T9}"/>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Rectangle Name="r9" Width="Auto" Height="Auto" Stroke="Transparent" StrokeThickness="3"
+              Grid.Column="1" Grid.Row="2" Tag="t10" Tapped="SwitchTile">
+                <Rectangle.Fill>
+                    <ImageBrush ImageSource="{Binding T10}"/>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Rectangle Name="r10" Width="Auto" Height="Auto" Stroke="Transparent" StrokeThickness="3"
+              Grid.Column="2" Grid.Row="2" Tag="t11" Tapped="SwitchTile">
+                <Rectangle.Fill>
+                    <ImageBrush ImageSource="{Binding T11}"/>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Rectangle Name="r11" Width="Auto" Height="Auto" Stroke="Transparent" StrokeThickness="3"
+              Grid.Column="3" Grid.Row="2" Tag="t12" Tapped="SwitchTile">
+                <Rectangle.Fill>
+                    <ImageBrush ImageSource="{Binding T12}"/>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Rectangle Name="r12" Width="Auto" Height="Auto" Stroke="Transparent" StrokeThickness="3"
+              Grid.Column="0" Grid.Row="3" Tag="t13" Tapped="SwitchTile">
+                <Rectangle.Fill>
+                    <ImageBrush ImageSource="{Binding T13}"/>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Rectangle Name="r13" Width="Auto" Height="Auto" Stroke="Transparent" StrokeThickness="3"
+              Grid.Column="1" Grid.Row="3" Tag="t14" Tapped="SwitchTile">
+                <Rectangle.Fill>
+                    <ImageBrush ImageSource="{Binding T14}"/>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Rectangle Name="r14" Width="Auto" Height="Auto" Stroke="Transparent" StrokeThickness="3"
+              Grid.Column="2" Grid.Row="3" Tag="t15" Tapped="SwitchTile">
+                <Rectangle.Fill>
+                    <ImageBrush ImageSource="{Binding T15}"/>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Rectangle Name="r15" Width="Auto" Height="Auto" Stroke="Transparent" StrokeThickness="3"
+              Grid.Column="3" Grid.Row="3" Tag="t16" Tapped="SwitchTile">
+                <Rectangle.Fill>
+                    <ImageBrush ImageSource="{Binding T16}"/>
+                </Rectangle.Fill>
+            </Rectangle>
+
+
+        </Grid>
+
+        <!-- Game Title  -->
+        <Grid Grid.Column="2" Margin="0,18,0,0" Grid.RowSpan="2"  >
+
+            <TextBlock 
+                   Margin="0,0,0,0"  Text="HJ Puzzle Game" TextWrapping="Wrap"
+                    Grid.Row="0"
+                       FontSize="36"
+                       VerticalAlignment="Center"
+                       HorizontalAlignment="center"
+                FontFamily="Century Gothic" FontWeight="Normal" 
+                       >
+                <TextBlock.Foreground>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FF8246F5"/>
+                        <GradientStop Color="#FF10B1BB" Offset="1"/>
+                    </LinearGradientBrush>
+                </TextBlock.Foreground>
+            </TextBlock>
+        </Grid>
+
+        <!-- timer  -->
+        <Grid Grid.Column="3" Grid.Row="3"  >
+
+            <TextBlock Name="timerBlock"
+                   Margin="0,0,0,0"  Text="{Binding Timer}" TextWrapping="Wrap"
+                    Grid.Row="0"
+                       FontSize="36"
+                       VerticalAlignment="Center"
+                       HorizontalAlignment="Center"
+                FontFamily="Century Gothic" FontWeight="Normal" 
+                       >
+                <TextBlock.Foreground>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FF46F5DA"/>
+                        <GradientStop Color="#FFBBB810" Offset="1"/>
+                    </LinearGradientBrush>
+                </TextBlock.Foreground>
+            </TextBlock>
+        </Grid>
+
+
+        <!-- tOP 10 Grid  -->
+        <Grid Grid.Column="3" Grid.Row="2" >
+
+            <TextBlock Name="top10"
+                   Margin="0,0,0,0"  Text="TOP 10" TextWrapping="Wrap"
+                   Grid.Row="0" FontSize="25" VerticalAlignment="Top" HorizontalAlignment="center"
+                   FontFamily="Century Gothic" FontWeight="Bold" TextDecorations="Underline" 
+                       >
+                <TextBlock.Foreground>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FFE232C9"/>
+                        <GradientStop Color="#FF3C7AFF" Offset="1"/>
+                    </LinearGradientBrush>
+                </TextBlock.Foreground>
+            </TextBlock>
+
+            <TextBlock Name="top10List_Box"
+                   Margin="0,40,0,0"   TextWrapping="Wrap" 
+                   Grid.Row="0" FontSize="20" VerticalAlignment="Top" HorizontalAlignment="Center"
+                   FontFamily="Century Gothic"  TextDecorations="Underline" FontWeight="Bold" 
+                
+                       >
+                <TextBlock.Foreground>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FF2AA179"/>
+                        <GradientStop Color="#FF03ADBE" Offset="1"/>
+                    </LinearGradientBrush>
+                </TextBlock.Foreground>
+            </TextBlock>
+
+
+
+
+        </Grid>
+
+        <!-- button Grid  -->
+        <Grid  Grid.Column="2" Grid.Row="3" >
+
+    
+
+            <!-- randomize button   -->
+            <Button x:Name="randomBtn"  Content="Randomizer" Foreground="White" Margin="0,0,0,0" VerticalAlignment="Center" Height="35" Width="120" 
+                CornerRadius="20,20,20,20" FontFamily="Century Gothic" FontSize="16"  HorizontalAlignment="Center" Click="randomBtn_Click" FocusVisualPrimaryBrush="#FF057581" FocusVisualSecondaryBrush="#99AE8F8F" RequestedTheme="Dark" BorderBrush="#FFF3F3F3" >
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FF3F3C7C" Offset="0.002"/>
+                        <GradientStop Color="#FF1441A0" Offset="1"/>
+                    </LinearGradientBrush>
+                </Button.Background>
+            </Button>
+          
+
+        </Grid>
+
+
+    </Grid>
+    <!-- Main Grid  -->
+</Page>

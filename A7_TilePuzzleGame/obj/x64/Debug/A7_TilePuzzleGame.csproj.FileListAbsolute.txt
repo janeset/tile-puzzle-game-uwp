@@ -1,0 +1,526 @@
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\App.xbf
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\MainPage.xbf
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.xr.xml
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.exe
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.pdb
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\resources.pri
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\AppxManifest.xml
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\Core\A7_TilePuzzleGame.exe
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.build.appxrecipe
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\System.Runtime.dll
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\App.g.i.cs
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\App.g.cs
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MainPage.g.cs
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\App.xaml
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MainPage.xaml
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\App.xbf
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MainPage.xbf
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.csproj.CoreCompileInputs.cache
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.csproj.CopyComplete
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.exe
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.pdb
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\priconfig.xml
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\resources.resfiles
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\pri.resfiles
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\qualifiers.txt
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637112786540000000.json
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\PROJECTS-Prog2121\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.csprojAssemblyReference.cache
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\App.xbf
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\MainPage.xbf
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.xr.xml
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.exe
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.pdb
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\resources.pri
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\AppxManifest.xml
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\Core\A7_TilePuzzleGame.exe
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.build.appxrecipe
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\System.Runtime.dll
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.csprojAssemblyReference.cache
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\App.g.i.cs
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\App.g.cs
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MainPage.g.cs
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\App.xaml
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MainPage.xaml
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\App.xbf
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MainPage.xbf
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.csproj.CoreCompileInputs.cache
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.csproj.CopyComplete
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.exe
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.pdb
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\priconfig.xml
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\resources.resfiles
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\pri.resfiles
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\qualifiers.txt
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637112786540000000.json
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\App.xbf
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\MainPage.xbf
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.xr.xml
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.exe
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.pdb
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\resources.pri
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\AppxManifest.xml
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\Core\A7_TilePuzzleGame.exe
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.build.appxrecipe
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\System.Runtime.dll
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\App.g.i.cs
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\App.g.cs
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MainPage.g.cs
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\App.xaml
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MainPage.xaml
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\App.xbf
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MainPage.xbf
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.csproj.CoreCompileInputs.cache
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.csproj.CopyComplete
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.exe
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.pdb
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\priconfig.xml
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\resources.resfiles
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\pri.resfiles
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\qualifiers.txt
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame -V2\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637112786540000000.json
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\App.xbf
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\MainPage.xbf
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.xr.xml
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.exe
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.pdb
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\resources.pri
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\AppxManifest.xml
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\Core\A7_TilePuzzleGame.exe
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.build.appxrecipe
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\System.Runtime.dll
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\App.g.i.cs
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\App.g.cs
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MainPage.g.cs
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\App.xaml
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MainPage.xaml
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\App.xbf
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MainPage.xbf
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.csproj.CoreCompileInputs.cache
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.csproj.CopyComplete
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.exe
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.pdb
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\priconfig.xml
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\resources.resfiles
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\pri.resfiles
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\qualifiers.txt
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\haram\Downloads\A7_TilePuzzleGame -V3\A7_TilePuzzleGame\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637112786540000000.json
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\App.xbf
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\MainPage.xbf
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\WinnerPage.xbf
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.xr.xml
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.exe
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.pdb
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\resources.pri
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\AppxManifest.xml
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\Core\A7_TilePuzzleGame.exe
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.build.appxrecipe
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\System.Runtime.dll
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.csprojAssemblyReference.cache
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\App.g.i.cs
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\App.g.cs
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MainPage.g.cs
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\WinnerPage.g.i.cs
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\WinnerPage.g.cs
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\App.xaml
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MainPage.xaml
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\WinnerPage.xaml
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\App.xbf
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MainPage.xbf
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\WinnerPage.xbf
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.csproj.CoreCompileInputs.cache
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.csproj.CopyComplete
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.exe
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.pdb
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\priconfig.xml
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\resources.resfiles
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\pri.resfiles
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\qualifiers.txt
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\haram\OneDrive\SET\Year2\2-1\WMP\Assignment\A7_TilePuzzleGame_V6_Original\A7_TilePuzzleGame_V6\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637112786540000000.json
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\App.xbf
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\MainPage.xbf
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\WinnerPage.xbf
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.xr.xml
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.exe
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.pdb
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\resources.pri
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\AppxManifest.xml
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\Core\A7_TilePuzzleGame.exe
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.build.appxrecipe
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\System.Runtime.dll
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.csprojAssemblyReference.cache
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\App.g.i.cs
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\App.g.cs
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MainPage.g.cs
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\WinnerPage.g.i.cs
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\WinnerPage.g.cs
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\App.xaml
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MainPage.xaml
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\WinnerPage.xaml
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\App.xbf
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MainPage.xbf
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\WinnerPage.xbf
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.csproj.CoreCompileInputs.cache
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.csproj.CopyComplete
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.exe
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.pdb
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\priconfig.xml
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\resources.resfiles
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\pri.resfiles
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\qualifiers.txt
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637112786540000000.json
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\App.xbf
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\MainPage.xbf
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\WinnerPage.xbf
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.xr.xml
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.exe
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.pdb
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\resources.pri
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\AppxManifest.xml
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\Core\A7_TilePuzzleGame.exe
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.build.appxrecipe
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\System.Runtime.dll
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\App.g.i.cs
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\App.g.cs
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MainPage.g.cs
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\WinnerPage.g.i.cs
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\WinnerPage.g.cs
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\App.xaml
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MainPage.xaml
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\WinnerPage.xaml
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\App.xbf
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MainPage.xbf
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\WinnerPage.xbf
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.csproj.CoreCompileInputs.cache
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.csproj.CopyComplete
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.exe
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.pdb
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\priconfig.xml
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\resources.resfiles
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\pri.resfiles
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\qualifiers.txt
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\haram\Downloads\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame_V7_1\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637112786540000000.json
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\App.xbf
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\MainPage.xbf
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\WinnerPage.xbf
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.xr.xml
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.exe
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.pdb
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\resources.pri
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\AppxManifest.xml
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\Core\A7_TilePuzzleGame.exe
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.build.appxrecipe
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\System.Runtime.dll
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.csprojAssemblyReference.cache
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\App.g.i.cs
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\App.g.cs
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MainPage.g.cs
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\WinnerPage.g.i.cs
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\WinnerPage.g.cs
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\App.xaml
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MainPage.xaml
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\WinnerPage.xaml
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\App.xbf
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MainPage.xbf
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\WinnerPage.xbf
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.csproj.CoreCompileInputs.cache
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.csproj.CopyComplete
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.exe
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.pdb
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\priconfig.xml
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\resources.resfiles
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\pri.resfiles
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\qualifiers.txt
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637112786540000000.json
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\App.xbf
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\MainPage.xbf
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\WinnerPage.xbf
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.xr.xml
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.exe
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.pdb
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\resources.pri
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\AppxManifest.xml
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\Core\A7_TilePuzzleGame.exe
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.build.appxrecipe
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\System.Runtime.dll
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\App.g.i.cs
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\App.g.cs
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MainPage.g.cs
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\WinnerPage.g.i.cs
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\WinnerPage.g.cs
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\App.xaml
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MainPage.xaml
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\WinnerPage.xaml
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\App.xbf
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MainPage.xbf
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\WinnerPage.xbf
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.csproj.CoreCompileInputs.cache
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.csproj.CopyComplete
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.exe
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.pdb
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\priconfig.xml
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\resources.resfiles
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\pri.resfiles
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\qualifiers.txt
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637112786540000000.json
+C:\Users\Jane Conestoga\Desktop\UWP_Tutorials\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.csprojAssemblyReference.cache
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\App.xbf
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\MainPage.xbf
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\WinnerPage.xbf
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.xr.xml
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.exe
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.pdb
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\resources.pri
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\AppxManifest.xml
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\Core\A7_TilePuzzleGame.exe
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.build.appxrecipe
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\System.Runtime.dll
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.csprojAssemblyReference.cache
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\App.g.i.cs
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\App.g.cs
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MainPage.g.cs
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\WinnerPage.g.i.cs
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\WinnerPage.g.cs
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\App.xaml
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MainPage.xaml
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\WinnerPage.xaml
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\App.xbf
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MainPage.xbf
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\WinnerPage.xbf
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.csproj.CoreCompileInputs.cache
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.csproj.CopyComplete
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.exe
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.pdb
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\priconfig.xml
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\resources.resfiles
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\pri.resfiles
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\qualifiers.txt
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\Jane\Desktop\A7_TilePuzzleGame_V7_3_final_Maybe\A7_TilePuzzleGame_V7_2\A7_TilePuzzleGame\A7_TilePuzzleGame\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637112786540000000.json
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\bin\x64\Debug\App.xbf
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\bin\x64\Debug\MainPage.xbf
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\bin\x64\Debug\WinnerPage.xbf
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.xr.xml
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.exe
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.pdb
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\bin\x64\Debug\resources.pri
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\bin\x64\Debug\AppxManifest.xml
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\bin\x64\Debug\Core\A7_TilePuzzleGame.exe
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\bin\x64\Debug\A7_TilePuzzleGame.build.appxrecipe
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\bin\x64\Debug\System.Runtime.dll
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\obj\x64\Debug\App.g.i.cs
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\obj\x64\Debug\App.g.cs
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\obj\x64\Debug\MainPage.g.cs
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\obj\x64\Debug\WinnerPage.g.i.cs
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\obj\x64\Debug\WinnerPage.g.cs
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\obj\x64\Debug\App.xaml
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\obj\x64\Debug\MainPage.xaml
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\obj\x64\Debug\WinnerPage.xaml
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\obj\x64\Debug\App.xbf
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\obj\x64\Debug\MainPage.xbf
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\obj\x64\Debug\WinnerPage.xbf
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.csproj.CoreCompileInputs.cache
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.csproj.CopyComplete
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.exe
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\obj\x64\Debug\A7_TilePuzzleGame.pdb
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\obj\x64\Debug\priconfig.xml
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\obj\x64\Debug\resources.resfiles
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\obj\x64\Debug\pri.resfiles
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\obj\x64\Debug\qualifiers.txt
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\Jane\Desktop\A7_HEom_JSantos\A7_TilePuzzleGame_HEom_JSantos\A7_TilePuzzleGame\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637112786540000000.json

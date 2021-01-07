@@ -1,0 +1,60 @@
+﻿<!--/*
+* FILE : WinnerPage.xaml
+* PROJECT : PROG2001 - Assignment #7
+* PROGRAMMER : Janeth Santos and Hongsik Eom
+* FIRST VERSION : December 10, 2020
+* DESCRIPTION :
+* this file contains the layout of the Winner page.
+*/-->
+<Page
+    x:Class="A7_TilePuzzleGame.WinnerPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:A7_TilePuzzleGame"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    MaxHeight="350"
+    MaxWidth="750"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Height="350" Width="748">
+
+    <Grid Background="White"  Height="300" Width="700">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.05*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="0.05*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.02*"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="0.02*"/>
+
+
+        </Grid.ColumnDefinitions>
+
+
+
+
+
+        <Image x:ConnectionId='2' x:Name="winnerImg" HorizontalAlignment="Left" Height="150" Margin="106,0,0,0" Grid.Column="1" Grid.Row="1" VerticalAlignment="Center" Width="235" Source="/tiles/winner.png"/>
+        <TextBox x:ConnectionId='3' Name="EnterName_Box" Grid.Column="1" HorizontalAlignment="Left" Margin="310,169,0,0" Grid.Row="1" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="150" PlaceholderText="Enter Name here..."/>
+        <TextBlock x:ConnectionId='4' x:Name="WinnerMsg_Box" Grid.Column="1" HorizontalAlignment="Left" Margin="310,77,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Text="WINNER! CONGRATULATIONS!!&#xA;&#xA; Final Time was 01:00 !" FontFamily="Century Gothic" FontSize="20" FocusVisualPrimaryBrush="#FF3C51F2" FontWeight="Bold">
+            <TextBlock.Foreground>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFC46701"/>
+                    <GradientStop Color="#FFE6861D" />
+                </LinearGradientBrush>
+            </TextBlock.Foreground>
+        </TextBlock>
+        <Button x:ConnectionId='5' x:Name="OK_Btn" Content="OK" Width="75" Grid.Column="1" Margin="569,232,0,0" Grid.Row="1" VerticalAlignment="Top"   Foreground="#FFF8F6F1" BorderBrush="#FFF1E3E3"                      FontWeight="Bold" RequestedTheme="Light">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFFF4B4B"/>
+                    <GradientStop Color="#FF463D3D" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+
+    </Grid>
+</Page>
+

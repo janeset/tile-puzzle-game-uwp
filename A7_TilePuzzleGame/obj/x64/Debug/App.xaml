@@ -1,0 +1,16 @@
+﻿<!--/*
+* FILE : App.xaml
+* PROJECT : PROG2001 - Assignment #7
+* PROGRAMMER : Janeth Santos and Hongsik Eom
+* FIRST VERSION : December 10, 2020
+* DESCRIPTION :
+* this file contains the xmal for the app.
+*/-->
+<Application
+    x:Class="A7_TilePuzzleGame.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:A7_TilePuzzleGame">
+
+</Application>
+
